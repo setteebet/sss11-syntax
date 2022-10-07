@@ -1,0 +1,18 @@
+{
+  "name": "sss11-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยinn✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยinn",
+"หวยแทง24",
+"lottovip แอพ",
+"วิธีแทงหวยในเว็บ",
+"9huay ดีไหม"
+],
+  "repository": "https://github.com/setteebet/sss11-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
